@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Shaina! You can call me Shay for short. 👋
 
-<!--
-**AvengerFreak/AvengerFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**  I am a Full-Stack Engineer with over 4 years of experience specializing in production support, CI/CD automation, and batch job optimization. My background encompasses supply chain technology, microservices, system architecture, and data engineering, including modeling, warehousing, and security. I have a proven track record of leading cloud migrations, improving deployment pipelines, and mentoring teams. I am passionate about building scalable and reliable solutions, and I thrive in collaborative, fast-paced environments.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on transitioning my career from Full-Stack to Data Engineering
+- 🌱 I’m currently learning LLM modeling
+- 👯 I’m looking to collaborate with other developers in hackathons
+- 🤔 I’m looking for help with starting a successful YouTube channel/social media presence, teaching others the ins and outs of Computer Science
+- 💬 Ask me about my volunteering activities
+- 📫 How to reach me: The Easiest way to reach me is on [LinkedIn](https://www.linkedin.com/in/shaina-munoz/)
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I like board games, crafting, and playing TTRPGS.  
