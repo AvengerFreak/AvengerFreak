@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on transitioning my career from Full-Stack to Data Engineering
 - 🌱 I’m currently learning LLM modeling
-- 👯 I’m looking to collaborate with other developers in hackathons
+- 👯 I’m looking to collaborate with other developers in hackathons, new volunteering activities, and of course, professional growth. 
 - 🤔 I’m looking for help with starting a successful YouTube channel/social media presence, teaching others the ins and outs of Computer Science
 - 💬 Ask me about my volunteering activities
 - 📫 How to reach me: The Easiest way to reach me is on [LinkedIn](https://www.linkedin.com/in/shaina-munoz/)
